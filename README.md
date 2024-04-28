@@ -15,3 +15,5 @@ Review of the steps:
 7. Check the history using git log
 
 Some changes for testing branches
+
+Made changes on the remote repository. I like learning :)
