@@ -13,3 +13,5 @@ Review of the steps:
 5. Add the files to the staging area using git add
 6. Commit the changes using git commit -m
 7. Check the history using git log
+
+Some changes for testing branches
