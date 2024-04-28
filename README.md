@@ -2,6 +2,9 @@
 
 This is the workflow for git workflow!
 
+Table of Contents
+
+
 Review of the steps:
 1. Initialize git in the directory by using git init
 2. Make changes to the files as needed
